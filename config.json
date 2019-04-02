@@ -1,0 +1,13 @@
+{
+    "rest": {
+        "port": 10004
+    },
+    "tokenService": {
+        "uri": "http://localhost:10002"
+    },
+    "hub": {
+        "ws": {
+            "port": 10101
+        }
+    }
+}
